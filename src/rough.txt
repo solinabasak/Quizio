@@ -1,0 +1,3 @@
+<label className="label"></label>
+		<input onChange={handleEmail} className="input"
+		value={email} type="email" />

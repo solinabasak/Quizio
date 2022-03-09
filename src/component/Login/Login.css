@@ -1,0 +1,43 @@
+.profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+  } 
+
+  .imgs {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+  }
+
+  .container-image {
+    background-color: rgb(223, 221, 221); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+  }
+
+  button{
+    width: 380px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #b503fc;
+    color: white;
+    font-size: 25px;
+    border: none;
+}
+.login-button{
+    padding-top: 25px;
+}
+
+.link{
+    padding-top: 25px;
+    font-size: 25px;
+    font-weight: 400;
+}
+ a{
+     color: blue;
+ }
